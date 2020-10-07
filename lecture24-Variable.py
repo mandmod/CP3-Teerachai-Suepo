@@ -1,4 +1,4 @@
-name = 'Teerachai Suepo'
+name = 'Teerachai S'
 age = 39
 height = 175
 weight = 91
