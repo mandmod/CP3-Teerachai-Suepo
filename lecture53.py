@@ -3,4 +3,5 @@ def vatCalculate(totalPrice):
     return result
 
 
-print(vatCalculate(200))
+inputPrice = int(input("Input price : "))
+print(vatCalculate(inputPrice))
